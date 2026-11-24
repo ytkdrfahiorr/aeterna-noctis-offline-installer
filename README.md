@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+More modern metal, synthwave, orchestra, and dramatic music! 20x tracks, 15 MEs and 25 SFX!
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,7 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Additional Notes** | System supporting VN Maker | System supporting VN Maker |
 
 ---
 
